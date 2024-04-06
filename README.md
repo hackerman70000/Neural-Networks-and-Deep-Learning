@@ -1,3 +1,9 @@
+# Neural-Networks-and-Deep-Learning
+
+## Description
+
+Code samples from Michael Nielsen's book "Neural Networks and Deep Learning" rewritten to Python 3.
+
 ## Licence
 
 MIT License
